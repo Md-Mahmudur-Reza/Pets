@@ -1,1 +1,1 @@
-# Pets
+# Its a learning project for django
