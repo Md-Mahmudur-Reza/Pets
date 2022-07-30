@@ -1,1 +1,1 @@
-# Its a learning project for django
+# A safe place for your pets.
